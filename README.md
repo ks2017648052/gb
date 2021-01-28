@@ -25,3 +25,9 @@ https://github.com/ks2017648052/gb/issues/4#issue-795706707
 
 기본 화면
 https://github.com/ks2017648052/gb/issues/5#issue-795706832
+
+
+사용 방법
+키보드 모드 1,2,3
+방향키 회전
+x, y, z 각도조절
